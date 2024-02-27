@@ -26,3 +26,7 @@
     border: 1px solid black;
     border-image-width: 10px 10px;
 }
+
+.background {
+    background-size: contain;
+    }
